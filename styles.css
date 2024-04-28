@@ -234,6 +234,8 @@ background: linear-gradient(0deg, rgba(233,136,87,1) 0%, rgba(246,209,119,1) 100
     margin: 0px 2%;
     padding: 10px 20px;
     height: 100%;
+    border: 2px solid #aeb1b8;
+    border-radius: 5px;
 }
 .button-discout{
     background-color: white;
